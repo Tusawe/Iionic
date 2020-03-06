@@ -1,0 +1,7 @@
+{
+  "name": "ionListaTareas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

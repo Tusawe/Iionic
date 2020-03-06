@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "taskapp-482d0": {
+      "hosting": {
+        "app": [
+          "taskapp-482d0"
+        ]
+      }
+    }
+  }
+}

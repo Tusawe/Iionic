@@ -1,0 +1,10 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Nueva Tarea</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+<ion-input #tarea placeholder="Nueva tarea"></ion-input>
+<ion-button (click)="newTask(tarea.value)">Crear</ion-button>
+</ion-content>

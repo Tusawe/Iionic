@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "iontasklist-4d120": {
+      "hosting": {
+        "app": [
+          "iontasklist-4d120"
+        ]
+      }
+    }
+  }
+}
